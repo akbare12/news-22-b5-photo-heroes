@@ -1,8 +1,10 @@
 # THE WORLD TODAY — Sunday 22 November 2026
 
-[![rank](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
-[![reward](https://make.fun/badge/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
-[![owner](https://make.fun/badge/news-image-20261122/owner/akbare12/news-22-b5-photo-heroes.svg)](https://make.fun/bounty/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/akbare12/news-22-b5-photo-heroes/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/akbare12/news-22-b5-photo-heroes/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
+The badges above link to the live bounty, this entry's leaderboard rank, and its reward.
 
 One image that sums up the world news of Sunday 22 November 2026:
 three large illustrated hero panels on top, a dense numbered story grid below.
